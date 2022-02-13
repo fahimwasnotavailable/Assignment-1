@@ -3,13 +3,38 @@ body {
 }
 
 .first-right{
-    margin-top: 1px;
+    margin-top: -150px;
     margin-right: 500px;
     margin-left: 200px;
+
+    
 }
 
 .first{
     margin: 10px;
     padding: 10px;
-    height: 500px;  
+    height: 400px; 
+    
+}
+.Second{
+    margin-left:  100px;
+    
+}
+.Second-right{
+    margin-left: 400px;
+    margin-top: -200px;
+}
+.Efont{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.last{
+    margin-left: 80px;
+    margin-top: 200px;
+}
+.h1{
+    margin-left: 100px;
+    margin-top: 10px;
+    box-shadow 8px 4px 5px;
+    border: 2px solid black;
+    box-sizing: content-box;
 }
