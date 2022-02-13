@@ -33,8 +33,22 @@ body {
 }
 .h1{
     margin-left: 100px;
-    margin-top: 10px;
-    box-shadow 8px 4px 5px;
-    border: 2px solid black;
-    box-sizing: content-box;
+    
+    width: 50%;
+    border: 1px solid rgb(12, 250, 190);
+    
+}
+.Outer{
+    display: flex;
+}
+.h2{
+    width: 50%;
+    border: 1px solid rgb(99, 9, 9);
+}
+.h3{
+    width: 50%;
+    border: 1px solid gray;
+}
+h1:hover{
+    background-color: darkgray;
 }
